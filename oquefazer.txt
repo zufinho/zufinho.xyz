@@ -1,0 +1,16 @@
+design ~ feito
+
+paginas:
+principal ~ falta o texto
+redes ~ feito
+projetos ~ feito
+parceiros ~ feito
+
+outros:
+changelog ~ falta fazer
+doações ~ falta fazer
+
+zufinhonuker:
+v1 ~ feito
+v2 ~ feito
+v3 ~ feito
